@@ -1,0 +1,19 @@
+# Temporary candidate previews & review artifacts
+unsplash/
+review.html
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment & secrets
+.env
+.env.*
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db

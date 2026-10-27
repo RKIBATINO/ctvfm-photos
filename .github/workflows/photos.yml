@@ -1,0 +1,29 @@
+name: Fetch photos and build index
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Pillow
+        run: pip install --quiet Pillow
+      - name: Download 1920x1080 photos from picks.json
+        run: python3 tools/fetch_photos.py
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+      - name: Generate photos/index.json and docs/PHOTO-CREDITS.md
+        run: |
+          python3 tools/make_index.py
+          python3 tools/make_credits.py
+      - name: Commit and push to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos docs/PHOTO-CREDITS.md
+          git diff --cached --quiet || (git commit -qm "Update photos, index.json, and PHOTO-CREDITS.md" && git push origin HEAD:main)

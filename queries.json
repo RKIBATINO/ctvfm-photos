@@ -1,0 +1,72 @@
+[
+  {
+    "query": "Morocco landscape",
+    "group": "landscape",
+    "pages": 1
+  },
+  {
+    "query": "Chefchaouen",
+    "group": "cities",
+    "pages": 1
+  },
+  {
+    "query": "Marrakech",
+    "group": "cities",
+    "pages": 1
+  },
+  {
+    "query": "Sahara Merzouga",
+    "group": "desert",
+    "pages": 1
+  },
+  {
+    "query": "Atlas Mountains Morocco",
+    "group": "mountains",
+    "pages": 1
+  },
+  {
+    "query": "Essaouira",
+    "group": "coast",
+    "pages": 1
+  },
+  {
+    "query": "Fes medina",
+    "group": "architecture",
+    "pages": 1
+  },
+  {
+    "query": "Hassan II Mosque Casablanca",
+    "group": "architecture",
+    "pages": 1
+  },
+  {
+    "query": "Ait Benhaddou",
+    "group": "architecture",
+    "pages": 1
+  },
+  {
+    "query": "Rabat Morocco",
+    "group": "cities",
+    "pages": 1
+  },
+  {
+    "query": "Tangier Morocco",
+    "group": "coast",
+    "pages": 1
+  },
+  {
+    "query": "Agadir coast",
+    "group": "coast",
+    "pages": 1
+  },
+  {
+    "query": "Ouzoud waterfalls",
+    "group": "nature",
+    "pages": 1
+  },
+  {
+    "query": "Moroccan architecture",
+    "group": "architecture",
+    "pages": 1
+  }
+]
