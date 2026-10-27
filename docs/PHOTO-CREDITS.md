@@ -60,3 +60,78 @@ From [Unsplash](https://unsplash.com/?utm_source=ctvfm_tv_screensaver&utm_medium
 | `photos/hHphIawFUY8.jpg` | marco di norcia | [unsplash](https://unsplash.com/photos/a-view-of-a-blue-city-from-a-hill-hHphIawFUY8?utm_source=ctvfm_tv_screensaver&utm_medium=referral) |
 | `photos/LgZLDiCo_34.jpg` | Saara Sanamo | [unsplash](https://unsplash.com/photos/the-sun-is-setting-over-a-mountain-range-LgZLDiCo_34?utm_source=ctvfm_tv_screensaver&utm_medium=referral) |
 | `photos/rhMhCH-AQMs.jpg` | nouh loukili | [unsplash](https://unsplash.com/photos/a-large-building-with-many-arches-and-pillars-rhMhCH-AQMs?utm_source=ctvfm_tv_screensaver&utm_medium=referral) |
+
+## Wikimedia Commons & Creative Commons Archive (photos/)
+
+Curated Moroccan landscapes, heritage landmarks, and architecture from Wikimedia Commons and Flickr contributors under Creative Commons licenses (CC BY / CC BY-SA / CC0).
+
+| File | Topic / City | Creator / Author | License |
+|---|---|---|---|
+| photos/agadir-48745048.jpg | Agadir | Hiba raissi | CC BY-SA 4.0 |
+| photos/casablanca-163941787.jpg | Casablanca | RIM 75 | CC BY 4.0 |
+| photos/casablanca-91983549.jpg | Casablanca | Milamber's portfolio | CC BY 2.0 |
+| photos/chefchaouen-128776419.jpg | Chefchaouen | William John Gauthier | CC BY-SA 2.0 |
+| photos/chefchaouen-167259906.jpg | Chefchaouen | Angela Schoettler | CC BY-SA 4.0 |
+| photos/chefchaouen-197429543.jpg | Chefchaouen | Badr Rachadi | CC BY-SA 4.0 |
+| photos/coast-181089546.jpg | Coast | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/coast-48707846.jpg | Coast | Hindbouqartacha | CC BY-SA 4.0 |
+| photos/coast-66262676.jpg | Coast | Isiwal | CC BY-SA 4.0 |
+| photos/desert-57358791.jpg | Desert | Sergey Pesterev | CC BY-SA 4.0 |
+| photos/desert-75212120.jpg | Desert | Sergey Pesterev | CC BY-SA 4.0 |
+| photos/essaouira-146000831.jpg | Essaouira | Holger Uwe Schmitt | CC BY-SA 4.0 |
+| photos/essaouira-62539330.jpg | Essaouira | Alina Chan | CC BY-SA 4.0 |
+| photos/essaouira-989890.jpg | Essaouira | Luc Viatour | CC BY-SA 3.0 |
+| photos/essaouira-24518802.jpg | Essaouira | yeowatzup | CC BY 2.0 |
+| photos/fes-150417943.jpg | Fes | Petar Milošević | CC BY-SA 4.0 |
+| photos/fes-188805401.jpg | Fes | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/marrakech-152670629.jpg | Marrakech | Petar Milošević | CC BY-SA 4.0 |
+| photos/marrakech-179109388.jpg | Marrakech | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/marrakech-40131159.jpg | Marrakech | MED.BENALLA | CC BY-SA 3.0 |
+| photos/marrakech-4482977.jpg | Marrakech | Jean-Marc Astesana | CC BY-SA 2.0 |
+| photos/marrakech-51608989.jpg | Marrakech | Nash Finley | CC BY-SA 4.0 |
+| photos/marrakech-67397030.jpg | Marrakech | Krzysztof Ziarnek | CC BY-SA 4.0 |
+| photos/marrakech-161646629.jpg | Marrakech | Jakub Hałun | CC BY 4.0 |
+| photos/marrakech-143380559.jpg | Marrakech | DimiTalen | CC0 |
+| photos/meknes-111876255.jpg | Meknes | FuriousYogi | CC BY-SA 4.0 |
+| photos/meknes-51626353.jpg | Meknes | Masmnet | CC BY-SA 4.0 |
+| photos/meknes-2990053.jpg | Meknes | Jerzy Strzelecki | CC BY 3.0 |
+| photos/merzouga-1434940.jpg | Merzouga | Rosino | CC BY-SA 2.0 |
+| photos/merzouga-17131265.jpg | Merzouga | Bjørn Christian Tørrissen | CC BY-SA 3.0 |
+| photos/merzouga-48490116.jpg | Merzouga | Hamza ZIDANE | CC BY-SA 4.0 |
+| photos/merzouga-69864913.jpg | Merzouga | Kdouri omar | CC BY-SA 4.0 |
+| photos/merzouga-183313059.jpg | Merzouga | Jorge Franganillo | CC BY 4.0 |
+| photos/merzouga-2992099.jpg | Merzouga | Jerzy Strzelecki | CC BY 3.0 |
+| photos/fes-178552728.jpg | Mountains | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/fes-178552735.jpg | Mountains | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/mountains-129816630.jpg | Mountains | Mounir Neddi | CC BY-SA 4.0 |
+| photos/mountains-1390197.jpg | Mountains | David Dennis | CC BY-SA 2.0 |
+| photos/mountains-179173521.jpg | Mountains | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/mountains-183983668.jpg | Mountains | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/mountains-69532362.jpg | Mountains | Toni Wöhrl | CC BY-SA 4.0 |
+| photos/mountains-69663035.jpg | Mountains | Nawfal Kharbach | CC BY-SA 4.0 |
+| photos/mountains-154198367.jpg | Mountains | Marek Ślusarczyk | CC BY 3.0 |
+| photos/mountains-154198463.jpg | Mountains | Marek Ślusarczyk | CC BY 3.0 |
+| photos/mountains-2995038.jpg | Mountains | Jerzy Strzelecki | CC BY 3.0 |
+| photos/other-48965487.jpg | Other | Mohamed Haddi | CC BY-SA 4.0 |
+| photos/ouarzazate-153962465.jpg | Ouarzazate | Petar Milošević | CC BY-SA 4.0 |
+| photos/ouarzazate-48249159.jpg | Ouarzazate | Marek Kubica | CC BY-SA 2.0 |
+| photos/ouarzazate-115561486.jpg | Ouarzazate | ER Bauer | CC BY 2.5 |
+| photos/ouarzazate-2992404.jpg | Ouarzazate | Jerzy Strzelecki | CC BY 3.0 |
+| photos/ouarzazate-2992413.jpg | Ouarzazate | Jerzy Strzelecki | CC BY 3.0 |
+| photos/ouarzazate-2992416.jpg | Ouarzazate | Jerzy Strzelecki | CC BY 3.0 |
+| photos/ouarzazate-73697816.jpg | Ouarzazate | Maureen | CC BY 2.0 |
+| photos/ouzoud-106832279.jpg | Ouzoud | Houssain tork | CC BY-SA 4.0 |
+| photos/ouzoud-24274021.jpg | Ouzoud | Иерей Максим Массалитин | CC BY-SA 2.0 |
+| photos/ouzoud-52506389.jpg | Ouzoud | Miesbo71 | CC BY-SA 4.0 |
+| photos/ouzoud-7801148.jpg | Ouzoud | fr.zil | CC BY-SA 2.0 |
+| photos/ouzoud-54484238.jpg | Ouzoud | balepc | CC BY 3.0 |
+| photos/fes-153849346.jpg | Rabat | Petar Milošević | CC BY-SA 4.0 |
+| photos/rabat-152880820.jpg | Rabat | Petar Milošević | CC BY-SA 4.0 |
+| photos/rabat-153870338.jpg | Rabat | Petar Milošević | CC BY-SA 4.0 |
+| photos/rabat-182392069.jpg | Rabat | Timothy A. Gonsalves | CC BY-SA 4.0 |
+| photos/rabat-44746875.jpg | Rabat | MarwanAndrew | CC BY-SA 4.0 |
+| photos/rabat-8453060.jpg | Rabat | Pline | CC BY-SA 3.0 |
+| photos/tangier-46604088.jpg | Tangier | Diego Delso | CC BY-SA 4.0 |
+| photos/tangier-46604112.jpg | Tangier | Diego Delso | CC BY-SA 4.0 |
+| photos/tangier-46604120.jpg | Tangier | Diego Delso | CC BY-SA 4.0 |
+| photos/tangier-46604122.jpg | Tangier | Diego Delso | CC BY-SA 4.0 |
